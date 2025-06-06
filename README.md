@@ -20,4 +20,4 @@
 
 [![Leetcode Stats]
 
-[![Sripathi's github activity graph]
+

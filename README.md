@@ -19,4 +19,5 @@
 ![Sripathi's GitHub stats]
 
 [![Leetcode Stats]
-[![Sriathi's github activity graph]
+
+[![Sripathi's github activity graph]

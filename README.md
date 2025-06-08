@@ -19,6 +19,5 @@
 
 # 📊 GitHub Stats: <br /> ![sripathi-e's Stats](https://github-readme-stats.vercel.app/api?username=sripathi-e&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/sripathi_programmer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
-
+[![Leetcode Stats]
 

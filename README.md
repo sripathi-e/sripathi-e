@@ -10,7 +10,7 @@
 
 
 # 📊 Big Data Engineer Tools:
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/> <img width="50" height="50" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/> <img width="48" height="48" src="https://img.icons8.com/color/48/apache-spark.png" alt="apache-spark"/>
 
 
 

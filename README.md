@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Sripathi
 
-## Junior Data Engineer & Data Analyst
+## Junior Big Data Engineer & Data Analyst
 
 👋 Hi! I'm a B.Sc Computer Science with specialization in Data Science student diving deep into the worlds of Data.
 <br><br>🎓 B.Sc in Computer Science with specialization in Data Science<br>💡 Interested in data-driven solutions,  problem-solving, and building meaningful applications<br>🌱 Currently growing my knowledge in programming, big data engineer <br><br>I'm excited to learn, collaborate, and share my journey through my projects here on GitHub! 🚀
